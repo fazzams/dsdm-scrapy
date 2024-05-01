@@ -49,6 +49,7 @@ class SctrQuotes(scrapy.Spider):
         #   datasrc2.append(i2)
         # picUrls = ', '.join(datasrc)
         # picUrls = picUrls.replace('&wid={width}&qlt={quality}', '')
+        # Test
 
 
 
